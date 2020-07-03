@@ -30,8 +30,8 @@ Currently I'm improving my `JavaScript` and `React` knowledge!
 
 ### 🔨  Projects on GitHub
 
-- [![Crontools][crontools-stars]][`crontools`](https://github.com/l-mbert/crontools) - An JS Package to manipulate, build and validate Cronjob Timings.
-- [`react-pixelart`](https://github.com/l-mbert/react-pixelart) - A React Component to create simple pixelarts.
+- [crontools-stars] - [`crontools`](https://github.com/l-mbert/crontools) - An JS Package to manipulate, build and validate Cronjob Timings.
+- [react-pixelart-stars] - [`react-pixelart`](https://github.com/l-mbert/react-pixelart) - A React Component to create simple pixelarts.
 
 [crontools-stars]: https://img.shields.io/github/stars/l-mbert/crontools
 [react-pixelart-stars]: https://img.shields.io/github/stars/l-mbert/react-pixelart
