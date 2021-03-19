@@ -24,7 +24,7 @@ I love trying new stuff! Like the Profile README's! 😄
 - `CSS` - about 7 years of experience
 - `JavaScript` - 2 years of professional experience
 - `NodeJS` - 2 years of professional experience
-- `React` - 1 year of professional experience
+- `React` - 2 year of professional experience
 
 Currently I'm improving my `JavaScript` and `React` knowledge!
 
