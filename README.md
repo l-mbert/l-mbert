@@ -20,10 +20,10 @@ I love trying new stuff! Like the Profile README's! 😄
 
 ### 🔭  Skillset
 
-- `HTML` - about 7 years of experience
-- `CSS` - about 7 years of experience
-- `JavaScript` - 2 years of professional experience
-- `NodeJS` - 2 years of professional experience
+- `HTML` - about 8 years of experience
+- `CSS` - about 8 years of experience
+- `JavaScript` - 3 years of professional experience
+- `NodeJS` - 3 years of professional experience
 - `React` - 2 year of professional experience
 
 Currently I'm improving my `JavaScript` and `React` knowledge!
