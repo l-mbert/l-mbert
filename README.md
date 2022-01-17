@@ -1,32 +1,42 @@
 ## 🧬 Hello!
 
-My Name is Lambert and I'm an Frontend Webdeveloper from Germany.
+I'm Lambert and I work aa a Front-end Webdeveloper in Germany.
 
+### 🔭  What do I use?
 
-I started Web Development when I was about 13 years old.
+```ts
+interface Skill {
+  technology: string;
+  yearsOfExperience: number;
+}
 
-It was like an On/Off Relationship because the learning curve was pretty high at first.
-
-
-When I turned 16 I found my passion in coding and learning new Stuff.
-
-I picked up my old projects and wanted to improve them and make better things out of them.
-
-
-On this GitHub I showcase projects I'm currently working on and the pinned repos are my finished projects.
-
-
-I love trying new stuff! Like the Profile README's! 😄
-
-### 🔭  Skillset
-
-- `HTML` - about 8 years of experience
-- `CSS` - about 8 years of experience
-- `JavaScript` - 3 years of professional experience
-- `NodeJS` - 3 years of professional experience
-- `React` - 2 year of professional experience
-
-Currently I'm improving my `JavaScript` and `React` knowledge!
+const userSkills: Skill[] = [
+  {
+    technology: "HTML",
+    yearsOfExperience: 8,
+  },
+  {
+    technology: "CSS",
+    yearsOfExperience: 8,
+  },
+  {
+    technology: "JavaScript",
+    yearsOfExperience: 3,
+  },
+  {
+    technology: "React",
+    yearsOfExperience: 3,
+  },
+  {
+    technology: "NodeJS",
+    yearsOfExperience: 3,
+  },
+  {
+    technology: "TypeScript",
+    yearsOfExperience: 2,
+  },
+];
+```
 
 ### 🔨  Projects on GitHub
 
