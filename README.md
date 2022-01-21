@@ -1,6 +1,6 @@
 ## 🧬 Hello!
 
-I'm Lambert and I work aa a Front-end Webdeveloper in Germany.
+I'm Lambert and I work as a Front-end Webdeveloper in Germany.
 
 ### 🔭  What do I use?
 
@@ -37,11 +37,3 @@ const userSkills: Skill[] = [
   },
 ];
 ```
-
-### 🔨  Projects on GitHub
-
-- [`crontools`](https://github.com/l-mbert/crontools) ![Crontools][crontools-stars] - An JS Package to manipulate, build and validate Cronjob Timings.
-- [`react-pixelart`](https://github.com/l-mbert/react-pixelart) ![ReactPixelart][react-pixelart-stars] - A React Component to create simple pixelarts.
-
-[crontools-stars]: https://img.shields.io/github/stars/l-mbert/crontools
-[react-pixelart-stars]: https://img.shields.io/github/stars/l-mbert/react-pixelart
