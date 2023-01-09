@@ -1,39 +1,12 @@
 ## 🧬 Hello!
 
-I'm Lambert and I work as a Front-end Webdeveloper in Germany.
+My name is Lambert!
 
-### 🔭  What do I use?
+I am a Frontend Developer with a passion for building intuitive and interactive user experiences. With strong skills in ReactJS, Typescript, and modern web development technologies, I am dedicated to creating high-quality applications and staying up-to-date with industry best practices.
 
-```ts
-interface Skill {
-  technology: string;
-  yearsOfExperience: number;
-}
-
-const userSkills: Skill[] = [
-  {
-    technology: "HTML",
-    yearsOfExperience: 8,
-  },
-  {
-    technology: "CSS",
-    yearsOfExperience: 8,
-  },
-  {
-    technology: "JavaScript",
-    yearsOfExperience: 3,
-  },
-  {
-    technology: "React",
-    yearsOfExperience: 3,
-  },
-  {
-    technology: "NodeJS",
-    yearsOfExperience: 3,
-  },
-  {
-    technology: "TypeScript",
-    yearsOfExperience: 2,
-  },
-];
-```
+## Skills
+- ReactJS
+- Typescript
+- HTML
+- CSS
+- JavaScript
